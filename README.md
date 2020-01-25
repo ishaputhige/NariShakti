@@ -1,2 +1,2 @@
 # NariShakti
-An app for womens sfety
+An app for womens safety
